@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">New_Project_1</string>
+    <string name="introductory_prompt">The object of this game is to \nsort the colors into individual \ncolumns where all of the colors \nmatch. You only move balls once\nat a time, either into an empty\ncolumn or a column with a ball\nwith the same top color.\n\nIt should always be possible to\nwin the easy game but not the\nhard one!</string>
+    <string name="rules">Sort the red, green, and blue balls. Yellow spots are empty.</string>
+</resources>
